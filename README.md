@@ -1,4 +1,4 @@
-- I’m interested in video game programming, computer graphics programming and fpga programming.
+- I’m interested in video game programming, graphics programming and fpga programming.
 - I’m currently learning c and verilog.
 - I’m looking to collaborate on any openGL or verilog related projects.
 
